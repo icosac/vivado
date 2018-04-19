@@ -1,0 +1,12 @@
+
+{ 
+    crc :  4149407107833722034  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto 3d5b531c52be46a48c88cb30bade8826 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L secureip --snapshot testacontatore_behav xil_defaultlib.testacontatore" , 
+    buildDate : "Apr  4 2018" , 
+    buildTime : "18:43:17" , 
+    linkCmd : "/usr/bin/gcc -Wa,-W  -O -fPIC  -m64  -Wl,--unresolved-symbols=ignore-all  -o \"xsim.dir/testacontatore_behav/xsimk\"   \"xsim.dir/testacontatore_behav/obj/xsim_0.lnx64.o\" \"xsim.dir/testacontatore_behav/obj/xsim_1.lnx64.o\" \"/opt/Xilinx/Vivado/2018.1/lib/lnx64.o/librdi_simulator_kernel.so\"  \"/opt/Xilinx/Vivado/2018.1/lib/lnx64.o/librdi_simbridge_kernel.so\"" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../earl.srcs/sources_1/new/contatore.vhd" \
+"../../../../earl.srcs/sim_1/new/testacontatore.vhd" \
+
+# Do not sort compile order
+nosort

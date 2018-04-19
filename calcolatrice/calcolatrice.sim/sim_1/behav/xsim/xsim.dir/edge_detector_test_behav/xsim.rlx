@@ -1,0 +1,12 @@
+
+{ 
+    crc :  8597804853117183844  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto 2d78260351dd44a4a06a779267a5b700 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L secureip --snapshot edge_detector_test_behav xil_defaultlib.edge_detector_test" , 
+    buildDate : "Apr  4 2018" , 
+    buildTime : "18:43:17" , 
+    linkCmd : "/usr/bin/gcc -Wa,-W  -O -fPIC  -m64  -Wl,--unresolved-symbols=ignore-all  -o \"xsim.dir/edge_detector_test_behav/xsimk\"   \"xsim.dir/edge_detector_test_behav/obj/xsim_0.lnx64.o\" \"xsim.dir/edge_detector_test_behav/obj/xsim_1.lnx64.o\" \"/opt/Xilinx/Vivado/2018.1/lib/lnx64.o/librdi_simulator_kernel.so\"  \"/opt/Xilinx/Vivado/2018.1/lib/lnx64.o/librdi_simbridge_kernel.so\"" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

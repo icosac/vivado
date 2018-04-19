@@ -1,0 +1,1 @@
+-wto "2d78260351dd44a4a06a779267a5b700" --incr --debug "typical" --relax --mt "8" -L "xil_defaultlib" -L "secureip" --snapshot "edge_detector_test_behav" "xil_defaultlib.edge_detector_test" -log "elaborate.log" 

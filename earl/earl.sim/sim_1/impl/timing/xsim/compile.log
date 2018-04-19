@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/media/psf/Home/VivadoProjects/earl/earl.sim/sim_1/impl/timing/xsim/testacontatore_time_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module contatore
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-163] Analyzing VHDL file "/media/psf/Home/VivadoProjects/earl/earl.srcs/sim_1/new/testacontatore.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity testacontatore
